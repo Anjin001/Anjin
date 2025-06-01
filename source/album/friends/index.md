@@ -1,6 +1,7 @@
 ---
-title: friends
+title: 亲友——
 date: 2025-06-02 00:04:59
+top_img: transparent
 ---
 {% gallery %}
 ![](/album/friends/Image_1748794582808.jpg)

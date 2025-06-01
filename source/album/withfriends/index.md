@@ -1,5 +1,5 @@
 ---
-title: withfriends
+title: 现充时刻。
 date: 2025-06-02 00:07:37
 ---
 {% gallery %}
