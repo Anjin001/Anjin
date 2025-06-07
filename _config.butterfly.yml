@@ -609,7 +609,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://anjinslab.com/
+  envId: https://www.anjinslab.com/
   region: ap-shanghai
   # Use Twikoo visitor count as the page view count
   visitor: true
