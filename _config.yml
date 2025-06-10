@@ -8,12 +8,12 @@ subtitle: ''
 description: '实变函数学十遍，学完泛函心犯寒'
 keywords:
 author: 安瑾
-language: en
+language: cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://anjins.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

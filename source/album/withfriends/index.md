@@ -1,6 +1,7 @@
 ---
 title: 现充时刻。
 date: 2025-06-02 00:07:37
+top_img: transparent
 ---
 {% gallery %}
 ![](/album/withfriends/IMG_20250518_152050.jpg)
