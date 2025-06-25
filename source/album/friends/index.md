@@ -22,5 +22,5 @@ top_img: transparent
 ![](/album/friends/crop1654790231163.jpg)
 ![](/album/friends/Image_1749539612313.jpg)
 ![](/album/friends/dd02faca21b39b5344f845b5a369a560.png)
-
+![](/album/friends/0adc5c0c239fb44fc67a2fb1fbdc58f8.jpg)
 {% endgallery %}
