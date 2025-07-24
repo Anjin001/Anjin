@@ -26,4 +26,5 @@ top_img: transparent
 ![](/album/friends/d5f94351ec347d58ada05b204af86b14_720.jpg)
 ![](/album/friends/89751581ff00517cc1d70f04f01a94b2.jpg)
 ![](/album/friends/3b36cbe1fd973286ee4c043c9d266d35.jpg)
+![](/album/friends/72f60ba38d6061ef448e9024bd287cac.png)
 {% endgallery %}
