@@ -27,4 +27,7 @@ top_img: transparent
 ![](/album/friends/89751581ff00517cc1d70f04f01a94b2.jpg)
 ![](/album/friends/3b36cbe1fd973286ee4c043c9d266d35.jpg)
 ![](/album/friends/72f60ba38d6061ef448e9024bd287cac.png)
+![](/album/friends/9535335a3161591c1de49258fc591323.png)
+![](/album/friends/c165d14678cbcb20c2cb71142dc2aad3.png)
+![](/album/friends/Screenshot_2025_0808_204225.png)
 {% endgallery %}
