@@ -2,6 +2,7 @@
 title: Linux期末
 date: 2025-6-9 14:00
 mathjex: true
+top_img: transparent
 ---
 # Linux笔记
 

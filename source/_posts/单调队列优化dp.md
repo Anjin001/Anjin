@@ -1,7 +1,8 @@
 ---
 title: 单调队列优化dp理解小汇总
 date: 2026-3-22 20:29:00
-mathjax: true
+mathjex: true
+top_img: transparent
 ---
 
 # 回顾单调队列主要思想

@@ -1,7 +1,8 @@
 ---
 title: 树上背包类DP理解小汇总
 date: 2026-3-22 20:29:00
-mathjax: true
+mathjex: true
+top_img: transparent
 ---
 
 # 回顾树上背包主要思想
